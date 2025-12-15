@@ -5,11 +5,11 @@ public class PrimeNumberWithPowInParSqrtCalculator {
     private Integer limit;
     private StringBuilder printableTerms;
 
-    public PrimeNumberWithPowCalculatorWithTerm(Number limit) {
+    public PrimeNumberWithPowInParSqrtCalculator (Number limit) {
         this(0, limit);
     }
 
-    public PrimeNumberWithPowCalculatorWithTerm(Number start, Number limit) {
+    public PrimeNumberWithPowInParSqrtCalculator (Number start, Number limit) {
         if (start.intValue() < 0){
             throw new IllegalArgumentException("Start must be greater than 0");
         }
