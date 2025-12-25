@@ -2,11 +2,16 @@ package edu.unl.cc.sucession.domain;
 
 import edu.unl.cc.sucession.business.*;
 import edu.unl.cc.sucession.domain.Sucessionable;
-
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+ * Autores
+ * Joel Tene 
+ * Teresa Rivas
+ * Axel Lapo
+ * Jorge Noboa
+ */
+
 public class main {
     static void printMenu(){
         System.out.println("CALCULADORA DE SERIES");
