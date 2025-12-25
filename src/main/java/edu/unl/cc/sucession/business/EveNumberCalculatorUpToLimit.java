@@ -1,6 +1,15 @@
 package edu.unl.cc.sucession.business;
 
+/**
+ * Autores
+ * Joel Tene 
+ * Teresa Rivas
+ * Axel Lapo
+ * Jorge Noboa
+ */
+
 public class EveNumberCalculatorUpToLimit {
+   
    private Integer limit;
     private Integer currentTerm;
     private final StringBuilder printableTerms;
