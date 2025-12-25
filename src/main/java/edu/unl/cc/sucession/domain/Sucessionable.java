@@ -1,5 +1,13 @@
 package edu.unl.cc.sucession.domain;
 
+/**
+ * Autores
+ * Joel Tene 
+ * Teresa Rivas
+ * Axel Lapo
+ * Jorge Noboa
+ */
+
 public interface Sucessionable extends Printable{
     /**
      * Generates the next term in the series based on the current term.
