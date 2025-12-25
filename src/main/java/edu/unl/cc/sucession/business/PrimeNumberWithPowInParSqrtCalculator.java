@@ -1,5 +1,13 @@
 package edu.unl.cc.sucession.business;
 
+/**
+ * Autores
+ * Joel Tene 
+ * Teresa Rivas
+ * Axel Lapo
+ * Jorge Noboa
+ */
+
 public class PrimeNumberWithPowInParSqrtCalculator {
   private Integer currentTerm;
     private Integer limit;
