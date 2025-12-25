@@ -1,4 +1,5 @@
 package edu.unl.cc.sucession.business;
+
 /**
  * Autores
  * Joel Tene 
@@ -6,6 +7,7 @@ package edu.unl.cc.sucession.business;
  * Axel Lapo
  * Jorge Noboa
  */
+
 public class PrimeNumberWithPowInPairCalculator {
   
     private Integer limit;
