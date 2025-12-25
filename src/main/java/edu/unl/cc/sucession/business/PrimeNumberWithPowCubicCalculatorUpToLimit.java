@@ -1,5 +1,13 @@
 package edu.unl.cc.sucession.business;
 
+/**
+ * Autores
+ * Joel Tene 
+ * Teresa Rivas
+ * Axel Lapo
+ * Jorge Noboa
+ */
+
 public class PrimeNumberWithPowCubicCalculatorUpToLimit {
 
     private Integer limit;
